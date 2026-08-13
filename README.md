@@ -76,7 +76,7 @@ The dashboard includes interactive filters for:
 - Identified high-value and low-value customer groups.
 - Analyzed revenue by category, gender, age group, and location.
 - Created an interactive Power BI dashboard for business insights.
-
+  
 ## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
