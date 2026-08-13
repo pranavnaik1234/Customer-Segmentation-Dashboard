@@ -65,9 +65,8 @@ The dashboard includes interactive filters for:
 6. Analyzed customer purchasing behavior.
 7. Created the final interactive dashboard.
 
-## 📊 Dashboard Preview
-
-![Customer Segmentation Dashboard](dashboard/Customer_Segmentation_Dashboard.png)
+##Dashboard Preview.
+![Customer Segmentation Dashboard](customer_segmentation_dashboard_page.png)
 
 ### 🔍 Key Insights
 
