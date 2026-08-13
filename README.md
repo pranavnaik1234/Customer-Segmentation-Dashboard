@@ -65,8 +65,17 @@ The dashboard includes interactive filters for:
 6. Analyzed customer purchasing behavior.
 7. Created the final interactive dashboard.
 
-## Dashboard Preview
-![Customer Segmentation Dashboard](Dashboard/Customer_Segmentation_Dashboard.png)
+## 📊 Dashboard Preview
+
+![Customer Segmentation Dashboard](dashboard/Customer_Segmentation_Dashboard.png)
+
+### 🔍 Key Insights
+
+- Analyzed customer purchasing behavior.
+- Segmented customers based on shopping patterns.
+- Identified high-value and low-value customer groups.
+- Analyzed revenue by category, gender, age group, and location.
+- Created an interactive Power BI dashboard for business insights.
 
 ## Skills Demonstrated
 - Data Cleaning
